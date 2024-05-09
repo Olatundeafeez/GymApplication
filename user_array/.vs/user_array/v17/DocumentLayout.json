@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\afeez_repo\\todo_app\\user_array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E0DAEA-31E7-4951-B7F5-155742B7D22C}|user_array\\user_array.csproj|c:\\users\\user\\desktop\\afeez_repo\\todo_app\\user_array\\user_array\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E0DAEA-31E7-4951-B7F5-155742B7D22C}|user_array\\user_array.csproj|solutionrelative:user_array\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E0DAEA-31E7-4951-B7F5-155742B7D22C}|user_array\\user_array.csproj|c:\\users\\user\\desktop\\afeez_repo\\todo_app\\user_array\\user_array\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E0DAEA-31E7-4951-B7F5-155742B7D22C}|user_array\\user_array.csproj|solutionrelative:user_array\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E0DAEA-31E7-4951-B7F5-155742B7D22C}|user_array\\user_array.csproj|c:\\users\\user\\desktop\\afeez_repo\\todo_app\\user_array\\user_array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E0DAEA-31E7-4951-B7F5-155742B7D22C}|user_array\\user_array.csproj|solutionrelative:user_array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "validation.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\afeez_repo\\todo_app\\user_array\\user_array\\validation.cs",
+              "RelativeDocumentMoniker": "user_array\\validation.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\afeez_repo\\todo_app\\user_array\\user_array\\validation.cs",
+              "RelativeToolTip": "user_array\\validation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:09:51.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Userclass.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\afeez_repo\\todo_app\\user_array\\user_array\\Userclass.cs",
+              "RelativeDocumentMoniker": "user_array\\Userclass.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\afeez_repo\\todo_app\\user_array\\user_array\\Userclass.cs",
+              "RelativeToolTip": "user_array\\Userclass.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwCAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:34:08.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\afeez_repo\\todo_app\\user_array\\user_array\\Program.cs",
+              "RelativeDocumentMoniker": "user_array\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\afeez_repo\\todo_app\\user_array\\user_array\\Program.cs",
+              "RelativeToolTip": "user_array\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:33:02.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
